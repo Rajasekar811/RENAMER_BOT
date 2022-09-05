@@ -5,15 +5,15 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/MRK-YT/RENAMER_BOT",
-    "success_url": "https://telegram.dog/mo_tech_group",
+    "repository": "https://github.com/Rajasekar811/RENAMER_BOT",
+    "success_url": "https://telegram.dog/ROYAL_MOVIZ",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
+            "description": "Your APP ID From my.telegram.org",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org @MT_MytelegramOrg_Bot",
+            "description": "Your API Hash From my.telegram.org ",
             "value": ""
         },
         "TOKEN": {
@@ -21,7 +21,7 @@
             "value": ""
         },
         "ADMIN": {
-            "description":"Add Your User ID @MT_ID_Bot"
+            "description":"Add Your User ID @Akku_Rename_Bot"
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From https://youtu.be/mD9veNL7KoE",
